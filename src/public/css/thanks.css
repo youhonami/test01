@@ -1,0 +1,34 @@
+.thanks__content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    max-width: 1230px;
+}
+
+.thanks__heading {
+    margin-bottom: 40px;
+    text-align: center;
+}
+
+.form__button {
+    text-align: center;
+}
+
+.form__button-submit {
+    text-decoration: none;
+    background: white;
+    color: #8b7969;
+    padding: 10px 20px; /* 内部の余白 */
+    border-radius: 5px; /* 角を丸める */
+
+    border: none; /* ボタンのボーダーを消す */
+    cursor: pointer; /* マウスカーソルをポインタに */
+    display: inline-block; /* インラインブロックにする */
+    transition: background-color 0.3s; /* ホバー時のトランジション */
+    padding: 10px;
+    width: 30%;
+    height: 50px;
+}
+
+h2 {
+    color: #8b7969;
+}
